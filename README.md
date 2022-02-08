@@ -1,2 +1,2 @@
-# kendoReact
-trial repo for kendo react ui components
+react_library
+repo for creating react library
